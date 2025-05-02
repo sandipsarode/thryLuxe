@@ -171,10 +171,9 @@ npm run dev
 
 ## 📝 Future Enhancements
 
-- Online Payment (Razorpay / Stripe)
+- Online Payment (Razorpay)
 - Order Cancellation & Refund
-- Admin Panel
-- Product Search & Filter
+- Product Filter
 
 ---
 
