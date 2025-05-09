@@ -205,7 +205,7 @@ const Cart = () => {
             src={assets.arrow_right_icon_colored}
             alt="Arrow"
           />
-          Continue Shopping...
+          Continue Shopping
         </button>
       </div>
 
