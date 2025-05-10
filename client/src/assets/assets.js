@@ -54,6 +54,7 @@ import runner_img_4 from "./RunnerX_4.jpg";
 import urban_img from "./Urban.jpg";
 import blackout_img from "./Blackout.jpg";
 import hype_img from "./Hype.jpg";
+import contact_banner from "./contact.jpg";
 
 export const assets = {
   logo,
@@ -85,6 +86,7 @@ export const assets = {
   bottom_banner_image_sm,
   add_address_iamge,
   box_icon,
+  contact_banner,
 };
 
 export const categories = [
